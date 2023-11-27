@@ -1,5 +1,5 @@
 - 👋 Hi, I’m me
-- 🌱 I’m currently in C dev
+- 🌱 I’m currently in C dev, nvm switched to C++
 - 📫 How to reach me - kyslol@h96an.com or discord: h96an
 
 - http://h96an.com
